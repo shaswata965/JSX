@@ -1,7 +1,7 @@
 import React from "react";
 
 function Heading() {
-  return <h1 className="heading">My Favorite Foods</h1>;
+  return <h1 className="heading">Calculator</h1>;
 }
 
 export default Heading;
